@@ -6,9 +6,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="Обо мне"></picture>
 
-<a href="https://github.com/etowhite/quant-smart-fitness-dashboard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-quant-smart-fitness-dashboard-dark.svg"><img src="assets/project-quant-smart-fitness-dashboard-light.svg" width="49%" alt="quant-smart-fitness-dashboard"></picture></a>&nbsp;<a href="https://github.com/etowhite/asic-pulse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-asic-pulse-dark.svg"><img src="assets/project-asic-pulse-light.svg" width="49%" alt="asic-pulse"></picture></a>
-
-<a href="https://github.com/etowhite/cyclone-mooneva"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-cyclone-mooneva-dark.svg"><img src="assets/project-cyclone-mooneva-light.svg" width="49%" alt="cyclone-mooneva"></picture></a>
+<a href="https://github.com/etowhite/asic-pulse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-asic-pulse-dark.svg"><img src="assets/project-asic-pulse-light.svg" width="49%" alt="asic-pulse"></picture></a>&nbsp;<a href="https://github.com/etowhite/cyclone-mooneva"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-cyclone-mooneva-dark.svg"><img src="assets/project-cyclone-mooneva-light.svg" width="49%" alt="cyclone-mooneva"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Активность на GitHub"></picture>
 

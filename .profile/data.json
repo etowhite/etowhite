@@ -1,17 +1,17 @@
 {
- "key": "a23cf7fe",
+ "key": "26c7f989",
  "stars": 1,
- "contributions": 20,
+ "contributions": 26,
  "repos": 4,
  "followers": 0,
  "languages": [
   [
    "Dart",
-   331978
+   386145
   ],
   [
    "JavaScript",
-   74611
+   76083
   ],
   [
    "Rust",
@@ -31,7 +31,7 @@
   ],
   [
    "Kotlin",
-   5737
+   5814
   ]
  ],
  "days": [
@@ -141,7 +141,7 @@
     "today": false
    },
    {
-    "c": 10,
+    "c": 16,
     "day": 31,
     "today": true
    }
@@ -162,8 +162,8 @@
    "topics": []
   },
   {
-   "name": "quant-smart-fitness-dashboard",
-   "url": "https://github.com/etowhite/quant-smart-fitness-dashboard",
+   "name": "quant-fitness-dashboard",
+   "url": "https://github.com/etowhite/quant-fitness-dashboard",
    "text": "quant: local nutrition, hydration, activity and body progress with Flutter and Health Connect",
    "fork": false,
    "stars": 0,
@@ -198,8 +198,8 @@
    "topics": []
   },
   {
-   "name": "quant-smart-fitness-dashboard",
-   "url": "https://github.com/etowhite/quant-smart-fitness-dashboard",
+   "name": "quant-fitness-dashboard",
+   "url": "https://github.com/etowhite/quant-fitness-dashboard",
    "text": "quant: local nutrition, hydration, activity and body progress with Flutter and Health Connect",
    "fork": false,
    "stars": 0,
