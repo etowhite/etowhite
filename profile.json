@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "login": "etowhite",
+  "seed": "#7C5CFF",
+  "seedFromAvatar": false,
+  "scheme": "expressive",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "",
+    "subtitle": "Local-first apps with Flutter and Rust.\nMaterial You in every pixel.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "palette",
+        "label": "Material You"
+      },
+      {
+        "icon": "code",
+        "label": "Flutter · Rust · TypeScript"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "devices",
+        "label": "Android and Windows apps"
+      },
+      {
+        "icon": "palette",
+        "label": "Material 3 Expressive design"
+      },
+      {
+        "icon": "lock",
+        "label": "Local-first and private by default"
+      },
+      {
+        "icon": "terminal",
+        "label": "Flutter · Rust/Tauri · TypeScript"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:flutter",
+            "label": "Flutter"
+          },
+          {
+            "icon": "brand:dart",
+            "label": "Dart"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:tauri",
+            "label": "Tauri"
+          }
+        ]
+      },
+      {
+        "title": "Also",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:android",
+            "label": "Android"
+          },
+          {
+            "icon": "palette",
+            "label": "Material You"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "quant-smart-fitness-dashboard",
+      "asic-pulse",
+      "cyclone-mooneva"
+    ],
+    "overrides": {
+      "quant-smart-fitness-dashboard": {
+        "icon": "monitor_heart",
+        "text": "Local-first nutrition, hydration, activity and body progress tracker. Flutter + Health Connect."
+      },
+      "asic-pulse": {
+        "icon": "memory",
+        "text": "Windows dashboard for an ASIC miner fleet. Rust + Tauri, Material You Edition."
+      },
+      "cyclone-mooneva": {
+        "icon": "calendar_month",
+        "text": "Material-themed cycle tracker. Android adaptation in progress."
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/etowhite"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/etowhite?tab=repositories",
+        "style": "filled"
+      }
+    ]
+  }
+}
