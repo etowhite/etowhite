@@ -17,7 +17,9 @@
     "wave",
     "buttons"
   ],
-  "hidden": [],
+  "hidden": [
+    "stack"
+  ],
   "hero": {
     "greeting": "Привет, я",
     "name": "",
@@ -39,20 +41,12 @@
     "title": "Обо мне",
     "items": [
       {
-        "icon": "devices",
-        "label": "Создаю приложения для Android и Windows"
+        "icon": "code",
+        "label": "Вайбкодер"
       },
       {
         "icon": "palette",
-        "label": "Люблю дизайн Material 3 Expressive"
-      },
-      {
-        "icon": "lock",
-        "label": "Данные на устройстве, приватность по умолчанию"
-      },
-      {
-        "icon": "terminal",
-        "label": "Flutter · Rust/Tauri · TypeScript"
+        "label": "Люблю Material Design"
       }
     ]
   },
