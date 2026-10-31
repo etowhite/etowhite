@@ -3,7 +3,7 @@
   "login": "etowhite",
   "seed": "#7C5CFF",
   "seedFromAvatar": false,
-  "scheme": "expressive",
+  "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
   "order": [
@@ -19,15 +19,15 @@
   ],
   "hidden": [],
   "hero": {
-    "greeting": "Hi, I'm",
+    "greeting": "Привет, я",
     "name": "",
-    "subtitle": "Local-first apps with Flutter and Rust.\nMaterial You in every pixel.",
+    "subtitle": "Вайбкодер. Создаю приложения на Flutter и Rust.\nMaterial You в каждом пикселе.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {
         "icon": "palette",
-        "label": "Material You"
+        "label": "Вайбкодер"
       },
       {
         "icon": "code",
@@ -36,19 +36,19 @@
     ]
   },
   "about": {
-    "title": "About me",
+    "title": "Обо мне",
     "items": [
       {
         "icon": "devices",
-        "label": "Android and Windows apps"
+        "label": "Создаю приложения для Android и Windows"
       },
       {
         "icon": "palette",
-        "label": "Material 3 Expressive design"
+        "label": "Люблю дизайн Material 3 Expressive"
       },
       {
         "icon": "lock",
-        "label": "Local-first and private by default"
+        "label": "Данные на устройстве, приватность по умолчанию"
       },
       {
         "icon": "terminal",
@@ -57,10 +57,10 @@
     ]
   },
   "stack": {
-    "title": "Tech stack",
+    "title": "Технологии",
     "groups": [
       {
-        "title": "Main",
+        "title": "Основные",
         "items": [
           {
             "icon": "brand:flutter",
@@ -81,7 +81,7 @@
         ]
       },
       {
-        "title": "Also",
+        "title": "Также использую",
         "items": [
           {
             "icon": "brand:typescript",
@@ -98,7 +98,7 @@
         ]
       },
       {
-        "title": "Tools",
+        "title": "Инструменты",
         "items": [
           {
             "icon": "brand:git",
@@ -122,36 +122,36 @@
     "overrides": {
       "quant-smart-fitness-dashboard": {
         "icon": "monitor_heart",
-        "text": "Local-first nutrition, hydration, activity and body progress tracker. Flutter + Health Connect."
+        "text": "Трекер питания, воды, активности и прогресса тела. Данные на устройстве. Flutter + Health Connect."
       },
       "asic-pulse": {
         "icon": "memory",
-        "text": "Windows dashboard for an ASIC miner fleet. Rust + Tauri, Material You Edition."
+        "text": "Панель мониторинга парка ASIC-майнеров для Windows. Rust + Tauri, дизайн Material You."
       },
       "cyclone-mooneva": {
         "icon": "calendar_month",
-        "text": "Material-themed cycle tracker. Android adaptation in progress."
+        "text": "Трекер цикла в стиле Material. Адаптация для Android в разработке."
       }
     },
-    "empty": "No description yet.",
-    "fork": "Fork"
+    "empty": "Описание пока не добавлено.",
+    "fork": "Форк"
   },
   "stats": {
-    "title": "GitHub activity",
-    "stars": "Stars earned",
-    "contributions": "Contributions this year",
-    "repos": "Public repos",
-    "followers": "Followers",
-    "calendar": "Last 21 days",
-    "weekdays": "SMTWTFS",
-    "languages": "Languages across my repositories",
+    "title": "Активность на GitHub",
+    "stars": "Получено звёзд",
+    "contributions": "Вклад за этот год",
+    "repos": "Публичные репозитории",
+    "followers": "Подписчики",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки в моих репозиториях",
     "showLanguages": true
   },
   "streak": {
-    "title": "Streak",
-    "current": "Current streak",
-    "longest": "Longest this year",
-    "days": "days"
+    "title": "Серия активности",
+    "current": "Текущая серия",
+    "longest": "Рекорд за год",
+    "days": "дн."
   },
   "socials": {
     "items": [
@@ -168,7 +168,7 @@
     "items": [
       {
         "icon": "book_2",
-        "label": "All repositories",
+        "label": "Все репозитории",
         "url": "https://github.com/etowhite?tab=repositories",
         "style": "filled"
       }
